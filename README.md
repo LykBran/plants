@@ -44,4 +44,3 @@ tips: Replace A with your own camera device or image, and replace B with your ex
 ```
 $ imagenet --input_blob=input_0 --output_blob=output_0 --model=resnet18.onnx --labels=labels.txt A B
 ```
-
